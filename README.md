@@ -1,7 +1,8 @@
-11/6/25
+12/6/25
 
-File : ufunc ----------
-  LCM, GCD, sin, cos, tan, deg2rad, rad2deg....
+Numpy : matrix 
+        Empty, zero, one, eye, identity matrix
 
-Files : Pandas, Cleaning data, Plotting ----------
-  data series, data frames, reading data, cleaning data, plotting
+  Liner algebra :
+        Rank, trace, determinant, inverse, 
+  
