@@ -1,7 +1,6 @@
-12/6/25
+13/6/25
 
+Revision  Numpy, Pandas
 Numpy { 
-matrix : Empty, zero, one, eye, identity matrix
-
-Liner algebra : Rank, trace, determinant, inverse,  
+Vectorization, covariance
 }
