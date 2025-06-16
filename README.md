@@ -1,6 +1,6 @@
-13/6/25
+16/6/25
 
-Revision  Numpy, Pandas
-Numpy { 
-Vectorization, covariance
+pandas : 
+
+Extra methods, Series/dataFrame String methods
 }
