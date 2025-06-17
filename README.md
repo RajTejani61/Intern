@@ -1,6 +1,8 @@
-16/6/25
+17/6/25
+Pandas : 
 
-pandas : 
-
-Extra methods, Series/dataFrame String methods
-}
+Working with missing data,
+Interpolation,
+Skewness,
+Outliers,
+List square method, 
