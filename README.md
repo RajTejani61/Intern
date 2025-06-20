@@ -1,3 +1,4 @@
-19/6/25
+20/6/25
 
-Data Preprocessing
+Scalers
+Seaborn
