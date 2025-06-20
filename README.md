@@ -1,4 +1,4 @@
 20/6/25
 
-Scalers
+data preprocessing: Scalers, 
 Seaborn
