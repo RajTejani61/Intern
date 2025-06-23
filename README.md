@@ -1,4 +1,5 @@
-20/6/25
+23/6/25
 
-data preprocessing: Scalers, 
-Seaborn
+Seaborn : 
+
+Line plot, Count plot, FacetGrid, Paired plot, joint plot
