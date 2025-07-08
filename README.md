@@ -1,3 +1,5 @@
-8/3/25
+7/7/25
 
-Linear regression : House price 
+Linear Reg : House price celifornia detaset and with multiple feature,  insurence pred, wine pred
+
+Logistic Reg : Diabetes pred 
