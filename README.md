@@ -1,5 +1,3 @@
-7/7/25
+8/7/5
 
-Linear Reg : House price celifornia detaset and with multiple feature,  insurence pred, wine pred
-
-Logistic Reg : Diabetes pred 
+Logistic Reg 
