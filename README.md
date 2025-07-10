@@ -1,5 +1,4 @@
-9/7/25
+10/7/25
 
-Lin Reg : Stock-price
-Log Reg : Loan-approval
-Pipeline
+
+Log Reg : Iris Titanic dataset pred  
