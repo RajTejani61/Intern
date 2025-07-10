@@ -1,3 +1,5 @@
-8/7/5
+9/7/25
 
-Logistic Reg 
+Lin Reg : Stock-price
+Log Reg : Loan-approval
+Pipeline
