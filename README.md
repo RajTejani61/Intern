@@ -1,4 +1,5 @@
-10/7/25
+11/7/25
 
 
-Log Reg : Iris Titanic dataset pred  
+KNN, Decision Tree
+Log Reg : Wine Pred  
