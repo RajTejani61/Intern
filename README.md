@@ -1,5 +1,4 @@
-11/7/25
+14/7/25
 
 
-KNN, Decision Tree
-Log Reg : Wine Pred  
+Decision Tree
