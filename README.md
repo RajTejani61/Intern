@@ -1,4 +1,4 @@
-21/7/25
+22/7/25
 
 
-Hierarchical clustering, DBSCAN
+SVM
