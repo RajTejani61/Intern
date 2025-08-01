@@ -1,4 +1,4 @@
-31/7/25
+1/8/25
 
-NLP : CBOW, POS, NER
-Spacy-TextBlob -> Tokenization
+NLP : 
+Spacy-TextBlob -> Lemmatization
