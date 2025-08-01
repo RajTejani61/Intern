@@ -1,3 +1,4 @@
-30/7/25
+31/7/25
 
-NLP -> Word2Vec
+NLP : CBOW, POS, NER
+Spacy-TextBlob -> Tokenization
