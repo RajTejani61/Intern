@@ -1,0 +1,8 @@
+"The king rules the kingdom",
+"The queen helps the king",
+"Running is good exercise", 
+"The runner runs fast",
+"Walking is healthy activity",
+"The walker walks slowly",
+"Reading books is fun",
+"The reader reads daily"
